@@ -7,7 +7,8 @@
 
 ### 🚀 Summary
 
-[cite_start]I am a Computer Engineering student dedicated to building high-performance systems in **C++** and **Python**[cite: 43, 68]. [cite_start]My expertise lies in **AI/ML, Computer Vision, Deep Learning, and Edge AI**[cite: 72]. [cite_start]I focus on turning complex, real-world problems into clean, efficient, and production-ready solutions[cite: 72].
+I am a Computer Engineering student dedicated to building high-performance systems in **C++** and **Python**[cite: 43, 68]. [cite_start]My expertise lies in **AI/ML, Computer Vision, Deep Learning, and Edge AI**[cite: 72]. 
+I focus on turning complex, real-world problems into clean, efficient, and production-ready solutions[cite: 72].
 
 [cite_start]I am currently seeking roles in AI/ML, Computer Vision, and Software Engineering[cite: 74].
 
